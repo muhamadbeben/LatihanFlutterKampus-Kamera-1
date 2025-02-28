@@ -15,8 +15,11 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-### Screen Capture
+## Screen Capture
 
-    <img src="screen_capture/DisplayPicture.jpg" />
-    <img src="screen_capture/TakePicture.jpg" />
-    <img src="screen_capture/video.mp4" />
+- Display Screen
+ <img src="screen_capture/DisplayPicture.jpg" />
+ <br>
+
+- Take Picture Screen
+- <img src="screen_capture/TakePicture.jpg" />
